@@ -1,68 +1,39 @@
 <div align="center">
 
-# 장범철
+# 장범철 | Beomcheol Jang
 
 ### Embedded Firmware Developer
 
-STM32 · AVR · C/C++ · CAN · OTA · Bootloader
+`STM32` `AVR` `C/C++` `CAN` `OTA` `Bootloader`
 
-하드웨어 동작 원리를 이해하고  
-구조화된 펌웨어와 통신 시스템을 구현합니다.
+펌웨어 아키텍처, 장치 통신 및 하드웨어 제어를 중심으로 개발합니다.
+
+[Notion Portfolio](https://app.notion.com/p/3a0efaa78d7d804a82e0e6ea6be143d5?source=copy_link) ·
+[Email](mailto:bisa16x2@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## Featured Repositories
 
-전자공학을 전공하고 엘리베이터 전장회사에서  
-2년 4개월간 인버터 조립 및 PCB 테스트 업무를 수행했습니다.
-
-현재 STM32와 AVR 기반의 임베디드 펌웨어 개발을 중심으로  
-펌웨어 구조 설계, 장치 통신, 센서 제어 및 Bootloader를 학습하고 있습니다.
-
----
-
-## Technical Skills
-
-### Languages
-
-`C` `C++` `Python` `Verilog`
-
-### Embedded
-
-`STM32` `AVR` `Arduino` `Raspberry Pi`
-
-### Communication
-
-`CAN` `UART` `SPI` `I2C` `RS485` `Wi-Fi`
-
-### Tools
-
-`VS Code` `STM32CubeMX` `STM32CubeProgrammer` `PlatformIO` `Git`
+| Repository | Technical Focus |
+|---|---|
+| [Embedded Device Lifecycle Platform](추가 예정) | STM32 Bootloader, OTA, Firmware Validation |
+| [APBO](https://github.com/bisa16x2/Auto-Pet-Bottle-Opener) | AVR C, DC Motor Control, 3D-Printed Mechanism |
+| [STM32 Elevator System](저장소_주소 추가 예정) | CAN, FSM, Distributed Control |
+| [IoT Smart Locker](https://github.com/bisa16x2/IoT_Smart_Locker) | RFID, Sensors, Wi-Fi, Raspberry Pi |
 
 ---
 
-## Featured Projects
+## Current Focus
 
-| Embedded Device Lifecycle Platform | STM32 Elevator System | IoT Smart Locker |
-|:---:|:---:|:---:|
-| EVSE OTA 및 Bootloader | CAN 기반 분산 제어 | RFID 및 센서 기반 보관함 |
-| STM32F429ZI | STM32F429ZI / F103 | Arduino / Raspberry Pi |
-| Team Leader | Team Leader | Locker Controller |
-| 개발 진행 중 | 프로젝트 정리 중 | 프로젝트 정리 중 |
+- STM32F429ZI Bootloader / Application 분리
+- Firmware Image Header 및 CRC 검증
+- OTA Update와 Fail-safe 설계
+- Embedded C 프로젝트 구조화
 
 ---
 
-## Current Project
-
-### Embedded Device Lifecycle Platform
-
-STM32F429ZI 기반 EVSE 펌웨어와 Bootloader를 개발하고 있습니다.
-
-- Bootloader와 Application 분리
-- Firmware Image 검증
-- CRC 검사
-- Application Jump
-- Wi-Fi 기반 OTA 업데이트
-- 업데이트 실패 대응 구조
+> 프로젝트 배경, 담당 역할 및 상세 개발 과정은
+> [Notion Portfolio](https://app.notion.com/p/3a0efaa78d7d804a82e0e6ea6be143d5?source=copy_link)에 정리되어 있습니다.
